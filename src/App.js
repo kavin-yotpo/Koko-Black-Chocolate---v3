@@ -13,7 +13,7 @@ function App() {
   let InstanceId_QA = "";
   let InstanceId_SEO = "928946";
   let InstanceId_Carousel = "950865";
-  let InstanceId_StarRating = "357438";
+  let InstanceId_StarRating = "";
   let InstanceId_PromotedProd = "";
   let InstanceId_UgcGallery = "";
   let InstanceId_ReviewsTab = "";
